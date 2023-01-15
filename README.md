@@ -23,7 +23,7 @@ As the data analyst for DTLM Retail, the Sales Director has requested the follow
 4. Include a textbox to highlight the following insights 
 -  Which are the 2 top revenue products in January? 
 -  Which sales team made most revenue from Decoratives in March? 
--  What is the relationship between revenue, population and median income of the state
+-  What is the relationship between revenue, population and median income of the state?
 ![Screenshot (14)](https://user-images.githubusercontent.com/114671548/212535440-63a0083e-38d8-4642-a58e-0278226853ff.png)
 
 
